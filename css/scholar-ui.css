@@ -1,0 +1,77 @@
+#scholars-table th,
+#scholars-table td {
+    vertical-align: middle;
+    font-size: 0.875rem;
+    padding: 0.5rem 0.75rem;
+    white-space: nowrap; /* Prevents text wrapping */
+    overflow: hidden; /* Hides overflow content */
+    text-overflow: ellipsis; /* Adds ellipsis for truncated text */
+}
+
+#scholars-table thead th {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: #f0f2f5;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-bottom: 2px solid #dee2e6;
+}
+
+#scholars-table tbody tr:hover {
+    background-color: rgba(13, 71, 161, 0.05);
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
+    transition: all 0.2s ease-in-out;
+}
+
+.table-success td {
+    background-color: rgba(40, 167, 69, 0.08);
+}
+
+.table-warning td {
+    background-color: rgba(255, 193, 7, 0.08);
+}
+
+.table-responsive::-webkit-scrollbar {
+    width: 5px;
+}
+
+.table-responsive::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.15);
+    border-radius: 3px;
+}
+
+.btn-sm i {
+    vertical-align: middle;
+}
+
+.btn-sm {
+    padding: 0.25rem 0.4rem;
+}
+
+.card-header {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+/* Adjusted styling to remove side scroll and maximize width */
+#scholars-table td {
+    border-bottom: 1px solid #dee2e6;
+}
+
+#scholars-table .text-center {
+    width: auto; /* Allow expansion */
+}
+
+.table-responsive,
+#scholars-table {
+    width: 100% !important;
+    min-width: 0; /* Prevents table from expanding beyond container */
+    box-sizing: border-box;
+    overflow-x: hidden; /* Explicitly disable horizontal scroll */
+}
+
+#scholars-table {
+    table-layout: auto; /* Allows columns to adjust naturally */
+}

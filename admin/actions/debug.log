@@ -1,0 +1,4461 @@
+Batches Input: Array
+(
+    [0] => 11.00|TES
+)
+
+Batch Map: Array
+(
+    [13.00] => Array
+        (
+            [0] => TES
+        )
+
+    [12.00] => Array
+        (
+            [0] => TDP
+            [1] => TES
+        )
+
+    [11.00] => Array
+        (
+            [0] => TES
+        )
+
+)
+
+No scholarship types for batch: 11.00|TES
+No data found for export
+Batches Input: Array
+(
+    [0] => 11.00|TES
+)
+
+Batch Map: Array
+(
+    [13.00] => Array
+        (
+            [0] => TES
+        )
+
+    [12.00] => Array
+        (
+            [0] => TDP
+            [1] => TES
+        )
+
+    [11.00] => Array
+        (
+            [0] => TES
+        )
+
+)
+
+No scholarship types for batch: 11.00|TES
+No data found for export
+CSRF Token: Session=79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055, Post=79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055
+Raw POST: Array
+(
+    [csrf_token] => 79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055
+    [batches] => Array
+        (
+            [0] => 11.00|TES
+        )
+
+)
+
+Batches Input: Array
+(
+    [0] => 11.00|TES
+)
+
+Batch Map: Array
+(
+    [13.00] => Array
+        (
+            [0] => TES
+        )
+
+    [12.00] => Array
+        (
+            [0] => TDP
+            [1] => TES
+        )
+
+    [11.00] => Array
+        (
+            [0] => TES
+        )
+
+)
+
+No scholarship types for batch: 11.00|TES
+No data found for export. Check batch values, scholarship types, and database data.
+CSRF Token: Session=79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055, Post=79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055
+Raw POST: Array
+(
+    [csrf_token] => 79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055
+    [batches] => Array
+        (
+            [0] => 11.00|TES
+        )
+
+)
+
+Batches Input: Array
+(
+    [0] => 11.00|TES
+)
+
+Batch Map: Array
+(
+    [13.00] => Array
+        (
+            [0] => TES
+        )
+
+    [12.00] => Array
+        (
+            [0] => TDP
+            [1] => TES
+        )
+
+    [11.00] => Array
+        (
+            [0] => TES
+        )
+
+)
+
+No scholarship types for batch: 11.00|TES
+No data found for export. Check batch values, scholarship types, and database data.
+CSRF Token: Session=79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055, Post=79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055
+Raw POST: Array
+(
+    [csrf_token] => 79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055
+    [batches] => Array
+        (
+            [0] => 11|TES
+        )
+
+)
+
+Batches Input: Array
+(
+    [0] => 11|TES
+)
+
+listBatches Results: Array
+(
+    [0] => Array
+        (
+            [batch] => 13
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+    [1] => Array
+        (
+            [batch] => 12
+            [scholarship_type] => TDP
+            [liquidated] => 0
+        )
+
+    [2] => Array
+        (
+            [batch] => 12
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+    [3] => Array
+        (
+            [batch] => 11
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+)
+
+Batch Map: Array
+(
+    [13] => Array
+        (
+            [0] => TES
+        )
+
+    [12] => Array
+        (
+            [0] => TDP
+            [1] => TES
+        )
+
+    [11] => Array
+        (
+            [0] => TES
+        )
+
+)
+
+No scholarship types for batch: 11|TES
+No data found for export. Check batch values, scholarship types, and database data.
+CSRF Token: Session=79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055, Post=79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055
+Raw POST: Array
+(
+    [csrf_token] => 79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055
+    [batches] => Array
+        (
+            [0] => 11|TES
+        )
+
+)
+
+Batches Input: Array
+(
+    [0] => 11|TES
+)
+
+listBatches Results: Array
+(
+    [0] => Array
+        (
+            [batch] => 13
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+    [1] => Array
+        (
+            [batch] => 12
+            [scholarship_type] => TDP
+            [liquidated] => 0
+        )
+
+    [2] => Array
+        (
+            [batch] => 12
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+    [3] => Array
+        (
+            [batch] => 11
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+)
+
+Batch Map: Array
+(
+    [13] => Array
+        (
+            [0] => TES
+        )
+
+    [12] => Array
+        (
+            [0] => TDP
+            [1] => TES
+        )
+
+    [11] => Array
+        (
+            [0] => TES
+        )
+
+)
+
+No scholarship types for batch: 11|TES
+No data found for export. Check batch values, scholarship types, and database data.
+CSRF Token: Session=79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055, Post=79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055
+Raw POST: Array
+(
+    [csrf_token] => 79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055
+    [batches] => Array
+        (
+            [0] => 11|TES
+        )
+
+)
+
+Batches Input: Array
+(
+    [0] => 11|TES
+)
+
+listBatches Results: Array
+(
+    [0] => Array
+        (
+            [batch] => 13
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+    [1] => Array
+        (
+            [batch] => 12
+            [scholarship_type] => TDP
+            [liquidated] => 0
+        )
+
+    [2] => Array
+        (
+            [batch] => 12
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+    [3] => Array
+        (
+            [batch] => 11
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+)
+
+Batch Map: Array
+(
+    [13] => Array
+        (
+            [0] => TES
+        )
+
+    [12] => Array
+        (
+            [0] => TDP
+            [1] => TES
+        )
+
+    [11] => Array
+        (
+            [0] => TES
+        )
+
+)
+
+No scholarship types for batch: 11|TES
+No data found for export. Check batch values, scholarship types, and database data.
+CSRF Token: Session=79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055, Post=79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055
+Raw POST: Array
+(
+    [csrf_token] => 79ecfd9863d6bb5ca5372455f337c5502927190552035631ea0a21889db4e055
+    [batches] => Array
+        (
+            [0] => 11|TES
+        )
+
+)
+
+Batches Input: Array
+(
+    [0] => 11|TES
+)
+
+listBatches Results: Array
+(
+    [0] => Array
+        (
+            [batch] => 13
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+    [1] => Array
+        (
+            [batch] => 12
+            [scholarship_type] => TDP
+            [liquidated] => 0
+        )
+
+    [2] => Array
+        (
+            [batch] => 12
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+    [3] => Array
+        (
+            [batch] => 11
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+)
+
+Batch Map: Array
+(
+    [13] => Array
+        (
+            [0] => TES
+        )
+
+    [12] => Array
+        (
+            [0] => TDP
+            [1] => TES
+        )
+
+    [11] => Array
+        (
+            [0] => TES
+        )
+
+)
+
+No scholarship types for batch: 11|TES
+No data found for export. Check batch values, scholarship types, and database data.
+listBatches Results: Array
+(
+    [0] => Array
+        (
+            [batch] => 13
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+    [1] => Array
+        (
+            [batch] => 12
+            [scholarship_type] => TDP
+            [liquidated] => 0
+        )
+
+    [2] => Array
+        (
+            [batch] => 12
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+    [3] => Array
+        (
+            [batch] => 11
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+)
+
+No scholarship types found for batch: 11|TES
+Input batches: Array
+(
+    [0] => 12|TES
+    [1] => 11|TES
+)
+
+listBatches results: Array
+(
+    [0] => Array
+        (
+            [batch] => 13
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+    [1] => Array
+        (
+            [batch] => 12
+            [scholarship_type] => TDP
+            [liquidated] => 0
+        )
+
+    [2] => Array
+        (
+            [batch] => 12
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+    [3] => Array
+        (
+            [batch] => 11
+            [scholarship_type] => TES
+            [liquidated] => 0
+        )
+
+)
+
+Batch map: Array
+(
+    [13] => Array
+        (
+            [0] => TES
+        )
+
+    [12] => Array
+        (
+            [0] => TDP
+            [1] => TES
+        )
+
+    [11] => Array
+        (
+            [0] => TES
+        )
+
+)
+
+Batch: 12, Scholarship Type: TDP, Rows: 0
+Batch: 12, Scholarship Type: TES, Rows: 0
+Batch: 11, Scholarship Type: TES, Rows: 0
+Input batches: Array
+(
+    [0] => 11.00|TES
+)
+
+Parsed batch: 11.00, Scholarship Type: TES
+Batch: 11.00, Scholarship Type: TES, Rows: 4
+Raw data: Array
+(
+    [0] => Array
+        (
+            [id] => 11
+            [user_id] => 16
+            [first_name] => ferwegff
+            [middle_name] => retrgdg
+            [last_name] => afefrhd
+            [extended_name] => 
+            [email] => 
+            [course] => BSA
+            [year_level] => 4
+            [scholarship_type] => TES
+            [created_at] => 2025-08-26 23:08:47
+            [profile_pic] => 
+            [phone] => 09424244455
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 34234.00
+            [batch] => 11.00
+            [status] => enrolled
+            [physical_copy_confirmed] => 0
+            [liquidated] => 0
+            [username] => waow
+        )
+
+    [1] => Array
+        (
+            [id] => 13
+            [user_id] => 18
+            [first_name] => gfsfa
+            [middle_name] => fsdfsdf
+            [last_name] => fdff
+            [extended_name] => 
+            [email] => 
+            [course] => BSA
+            [year_level] => 1
+            [scholarship_type] => TES
+            [created_at] => 2025-09-02 21:27:50
+            [profile_pic] => 
+            [phone] => 09424234423
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 23345.00
+            [batch] => 11.00
+            [status] => enrolled
+            [physical_copy_confirmed] => 0
+            [liquidated] => 0
+            [username] => wok
+        )
+
+    [2] => Array
+        (
+            [id] => 12
+            [user_id] => 17
+            [first_name] => ffdsfds
+            [middle_name] => fdfsdff
+            [last_name] => ffsdfsgf
+            [extended_name] => 
+            [email] => 
+            [course] => BSA
+            [year_level] => 4
+            [scholarship_type] => TES
+            [created_at] => 2025-08-28 11:26:47
+            [profile_pic] => 
+            [phone] => 09342342342
+            [sex] => Male
+            [units] => 30
+            [tuition_fee] => 244522.00
+            [batch] => 11.00
+            [status] => enrolled
+            [physical_copy_confirmed] => 0
+            [liquidated] => 0
+            [username] => wep
+        )
+
+    [3] => Array
+        (
+            [id] => 14
+            [user_id] => 19
+            [first_name] => erwerwerwe
+            [middle_name] => eegfsdf
+            [last_name] => fssdf
+            [extended_name] => 
+            [email] => 
+            [course] => BSA
+            [year_level] => 2
+            [scholarship_type] => TES
+            [created_at] => 2025-09-09 08:25:32
+            [profile_pic] => 
+            [phone] => 09593465345
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 2323.00
+            [batch] => 11.00
+            [status] => enrolled
+            [physical_copy_confirmed] => 0
+            [liquidated] => 0
+            [username] => bano
+        )
+
+)
+
+Row 2 data: Array
+(
+    [id] => 11
+    [user_id] => 16
+    [first_name] => ferwegff
+    [middle_name] => retrgdg
+    [last_name] => afefrhd
+    [extended_name] => 
+    [email] => 
+    [course] => BSA
+    [year_level] => 4
+    [scholarship_type] => TES
+    [created_at] => 2025-08-26 23:08:47
+    [profile_pic] => 
+    [phone] => 09424244455
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 34234.00
+    [batch] => 11.00
+    [status] => enrolled
+    [physical_copy_confirmed] => 0
+    [liquidated] => 0
+    [username] => waow
+)
+
+Row 3 data: Array
+(
+    [id] => 13
+    [user_id] => 18
+    [first_name] => gfsfa
+    [middle_name] => fsdfsdf
+    [last_name] => fdff
+    [extended_name] => 
+    [email] => 
+    [course] => BSA
+    [year_level] => 1
+    [scholarship_type] => TES
+    [created_at] => 2025-09-02 21:27:50
+    [profile_pic] => 
+    [phone] => 09424234423
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 23345.00
+    [batch] => 11.00
+    [status] => enrolled
+    [physical_copy_confirmed] => 0
+    [liquidated] => 0
+    [username] => wok
+)
+
+Row 4 data: Array
+(
+    [id] => 12
+    [user_id] => 17
+    [first_name] => ffdsfds
+    [middle_name] => fdfsdff
+    [last_name] => ffsdfsgf
+    [extended_name] => 
+    [email] => 
+    [course] => BSA
+    [year_level] => 4
+    [scholarship_type] => TES
+    [created_at] => 2025-08-28 11:26:47
+    [profile_pic] => 
+    [phone] => 09342342342
+    [sex] => Male
+    [units] => 30
+    [tuition_fee] => 244522.00
+    [batch] => 11.00
+    [status] => enrolled
+    [physical_copy_confirmed] => 0
+    [liquidated] => 0
+    [username] => wep
+)
+
+Row 5 data: Array
+(
+    [id] => 14
+    [user_id] => 19
+    [first_name] => erwerwerwe
+    [middle_name] => eegfsdf
+    [last_name] => fssdf
+    [extended_name] => 
+    [email] => 
+    [course] => BSA
+    [year_level] => 2
+    [scholarship_type] => TES
+    [created_at] => 2025-09-09 08:25:32
+    [profile_pic] => 
+    [phone] => 09593465345
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 2323.00
+    [batch] => 11.00
+    [status] => enrolled
+    [physical_copy_confirmed] => 0
+    [liquidated] => 0
+    [username] => bano
+)
+
+Input batches: Array
+(
+    [0] => 13.00|TES
+    [1] => 11.00|TES
+)
+
+Parsed batch: 13, Scholarship Type: TES
+Batch: 13, Scholarship Type: TES, Rows: 2
+Raw data: Array
+(
+    [0] => Array
+        (
+            [last_name] => adefefaf
+            [first_name] => wensel
+            [middle_name] => jtygfhfhf
+            [course] => BSA
+            [sex] => Female
+            [units] => 21
+            [tuition_fee] => 20343.00
+        )
+
+    [1] => Array
+        (
+            [last_name] => jwegjqegq
+            [first_name] => qwejgeqe
+            [middle_name] => 
+            [course] => BEED
+            [sex] => Male
+            [units] => 12
+            [tuition_fee] => 12334.00
+        )
+
+)
+
+Row 2 data: Array
+(
+    [last_name] => adefefaf
+    [first_name] => wensel
+    [middle_name] => jtygfhfhf
+    [course] => BSA
+    [sex] => Female
+    [units] => 21
+    [tuition_fee] => 20343.00
+)
+
+Row 3 data: Array
+(
+    [last_name] => jwegjqegq
+    [first_name] => qwejgeqe
+    [middle_name] => 
+    [course] => BEED
+    [sex] => Male
+    [units] => 12
+    [tuition_fee] => 12334.00
+)
+
+Parsed batch: 11, Scholarship Type: TES
+Batch: 11, Scholarship Type: TES, Rows: 4
+Raw data: Array
+(
+    [0] => Array
+        (
+            [last_name] => afefrhd
+            [first_name] => ferwegff
+            [middle_name] => retrgdg
+            [course] => BSA
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 34234.00
+        )
+
+    [1] => Array
+        (
+            [last_name] => fdff
+            [first_name] => gfsfa
+            [middle_name] => fsdfsdf
+            [course] => BSA
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 23345.00
+        )
+
+    [2] => Array
+        (
+            [last_name] => ffsdfsgf
+            [first_name] => ffdsfds
+            [middle_name] => fdfsdff
+            [course] => BSA
+            [sex] => Male
+            [units] => 30
+            [tuition_fee] => 244522.00
+        )
+
+    [3] => Array
+        (
+            [last_name] => fssdf
+            [first_name] => erwerwerwe
+            [middle_name] => eegfsdf
+            [course] => BSA
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 2323.00
+        )
+
+)
+
+Row 2 data: Array
+(
+    [last_name] => afefrhd
+    [first_name] => ferwegff
+    [middle_name] => retrgdg
+    [course] => BSA
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 34234.00
+)
+
+Row 3 data: Array
+(
+    [last_name] => fdff
+    [first_name] => gfsfa
+    [middle_name] => fsdfsdf
+    [course] => BSA
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 23345.00
+)
+
+Row 4 data: Array
+(
+    [last_name] => ffsdfsgf
+    [first_name] => ffdsfds
+    [middle_name] => fdfsdff
+    [course] => BSA
+    [sex] => Male
+    [units] => 30
+    [tuition_fee] => 244522.00
+)
+
+Row 5 data: Array
+(
+    [last_name] => fssdf
+    [first_name] => erwerwerwe
+    [middle_name] => eegfsdf
+    [course] => BSA
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 2323.00
+)
+
+Input batches: Array
+(
+    [0] => 2.00|Listahanan
+)
+
+Parsed batch: 2, Scholarship Type: Listahanan
+Batch: 2, Scholarship Type: Listahanan, Rows: 2
+Raw data: Array
+(
+    [0] => Array
+        (
+            [last_name] => Alday
+            [first_name] => Errol
+            [middle_name] => Lasheras
+            [course] => BSCS
+            [sex] => Male
+            [units] => 19
+            [tuition_fee] => 19454.26
+        )
+
+    [1] => Array
+        (
+            [last_name] => Garcia
+            [first_name] => Shane Aira
+            [middle_name] => Catapang
+            [course] => BSED
+            [sex] => Female
+            [units] => 28
+            [tuition_fee] => 22997.00
+        )
+
+)
+
+Row 2 data: Array
+(
+    [last_name] => Alday
+    [first_name] => Errol
+    [middle_name] => Lasheras
+    [course] => BSCS
+    [sex] => Male
+    [units] => 19
+    [tuition_fee] => 19454.26
+)
+
+Row 3 data: Array
+(
+    [last_name] => Garcia
+    [first_name] => Shane Aira
+    [middle_name] => Catapang
+    [course] => BSED
+    [sex] => Female
+    [units] => 28
+    [tuition_fee] => 22997.00
+)
+
+Input batches: Array
+(
+    [0] => 2.00|Listahanan
+)
+
+Parsed batch: 2, Scholarship Type: Listahanan
+Batch: 2, Scholarship Type: Listahanan, Rows: 33
+Raw data: Array
+(
+    [0] => Array
+        (
+            [last_name] => Abellera
+            [first_name] => Ma Angelica
+            [middle_name] => Alvarez
+            [course] => BSA
+            [sex] => Female
+            [units] => 31
+            [tuition_fee] => 24672.00
+        )
+
+    [1] => Array
+        (
+            [last_name] => Aguilar
+            [first_name] => Christine
+            [middle_name] => Siscon
+            [course] => BSA
+            [sex] => Female
+            [units] => 31
+            [tuition_fee] => 24672.74
+        )
+
+    [2] => Array
+        (
+            [last_name] => Alday
+            [first_name] => Carl Emmanuel
+            [middle_name] => Macalalad
+            [course] => BSBA
+            [sex] => Male
+            [units] => 22
+            [tuition_fee] => 19645.88
+        )
+
+    [3] => Array
+        (
+            [last_name] => Alday
+            [first_name] => Errol
+            [middle_name] => Lasheras
+            [course] => BSCS
+            [sex] => Male
+            [units] => 19
+            [tuition_fee] => 19454.26
+        )
+
+    [4] => Array
+        (
+            [last_name] => Alday
+            [first_name] => Kyla
+            [middle_name] => Piliin
+            [course] => BSHM
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 19725.88
+        )
+
+    [5] => Array
+        (
+            [last_name] => Baldoz
+            [first_name] => Maria Isabel
+            [middle_name] => Valencia
+            [course] => BSA
+            [sex] => Female
+            [units] => 31
+            [tuition_fee] => 24672.74
+        )
+
+    [6] => Array
+        (
+            [last_name] => Base
+            [first_name] => Percimae
+            [middle_name] => A.
+            [course] => BSTM
+            [sex] => Female
+            [units] => 18
+            [tuition_fee] => 17411.72
+        )
+
+    [7] => Array
+        (
+            [last_name] => Beadoy
+            [first_name] => Mark Anthony
+            [middle_name] => Manalo
+            [course] => BSHM
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 19237.34
+        )
+
+    [8] => Array
+        (
+            [last_name] => Bingcang
+            [first_name] => Lance Andrei
+            [middle_name] => Ilao
+            [course] => BEED
+            [sex] => Male
+            [units] => 25
+            [tuition_fee] => 21321.50
+        )
+
+    [9] => Array
+        (
+            [last_name] => Caldo
+            [first_name] => Kyla Janelle
+            [middle_name] => Piñano
+            [course] => BSHM
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 19.00
+        )
+
+    [10] => Array
+        (
+            [last_name] => Catibog
+            [first_name] => Stephanie
+            [middle_name] => Mayuga
+            [course] => BSED
+            [sex] => Female
+            [units] => 30
+            [tuition_fee] => 16756.20
+        )
+
+    [11] => Array
+        (
+            [last_name] => Chica
+            [first_name] => Angela
+            [middle_name] => Manalo
+            [course] => BSTM
+            [sex] => Female
+            [units] => 25
+            [tuition_fee] => 21321.50
+        )
+
+    [12] => Array
+        (
+            [last_name] => De Guzman
+            [first_name] => Daniella Erica
+            [middle_name] => Gonzalez
+            [course] => BSED
+            [sex] => Female
+            [units] => 18
+            [tuition_fee] => 17411.72
+        )
+
+    [13] => Array
+        (
+            [last_name] => De Jesus
+            [first_name] => Pamela
+            [middle_name] => Catapang
+            [course] => BSA
+            [sex] => Female
+            [units] => 31
+            [tuition_fee] => 24672.74
+        )
+
+    [14] => Array
+        (
+            [last_name] => De Lunas
+            [first_name] => Bernadette
+            [middle_name] => Bulan
+            [course] => BSED
+            [sex] => Female
+            [units] => 18
+            [tuition_fee] => 17411.72
+        )
+
+    [15] => Array
+        (
+            [last_name] => De Roxas
+            [first_name] => Myla
+            [middle_name] => Cabello
+            [course] => BSED
+            [sex] => Female
+            [units] => 21
+            [tuition_fee] => 19087.34
+        )
+
+    [16] => Array
+        (
+            [last_name] => Emerson
+            [first_name] => Dulongbinte
+            [middle_name] => Ajero
+            [course] => BSBA
+            [sex] => Male
+            [units] => 22
+            [tuition_fee] => 19645.00
+        )
+
+    [17] => Array
+        (
+            [last_name] => Estilo
+            [first_name] => Ken Laurence
+            [middle_name] => De Jesus
+            [course] => BSHM
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 19237.34
+        )
+
+    [18] => Array
+        (
+            [last_name] => Fronda
+            [first_name] => Erika Mae
+            [middle_name] => D.
+            [course] => BSCS
+            [sex] => Female
+            [units] => 19
+            [tuition_fee] => 19454.26
+        )
+
+    [19] => Array
+        (
+            [last_name] => Garcia
+            [first_name] => Shane Aira
+            [middle_name] => Catapang
+            [course] => BSED
+            [sex] => Female
+            [units] => 28
+            [tuition_fee] => 22997.00
+        )
+
+    [20] => Array
+        (
+            [last_name] => Garcia
+            [first_name] => Yahnzel
+            [middle_name] => Maminta
+            [course] => BSTM
+            [sex] => Female
+            [units] => 18
+            [tuition_fee] => 17411.72
+        )
+
+    [21] => Array
+        (
+            [last_name] => Gubi
+            [first_name] => Zara
+            [middle_name] => Joefer
+            [course] => BSHM
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 19237.34
+        )
+
+    [22] => Array
+        (
+            [last_name] => Hernandez
+            [first_name] => Jesca Collyn
+            [middle_name] => 
+            [course] => BSCS
+            [sex] => Female
+            [units] => 19
+            [tuition_fee] => 19454.26
+        )
+
+    [23] => Array
+        (
+            [last_name] => Krause
+            [first_name] => Kevin Jurgen
+            [middle_name] => Gerolao
+            [course] => BSCS
+            [sex] => Male
+            [units] => 19
+            [tuition_fee] => 20938.26
+        )
+
+    [24] => Array
+        (
+            [last_name] => Krause
+            [first_name] => Kevin Jurgen
+            [middle_name] => Gerolao
+            [course] => BSCS
+            [sex] => Male
+            [units] => 19
+            [tuition_fee] => 20938.25
+        )
+
+    [25] => Array
+        (
+            [last_name] => Manlapaz
+            [first_name] => Lyka Vaness
+            [middle_name] => Aganan
+            [course] => BSBA
+            [sex] => Female
+            [units] => 21
+            [tuition_fee] => 19087.34
+        )
+
+    [26] => Array
+        (
+            [last_name] => Mary Joy
+            [first_name] => Candelaria
+            [middle_name] => Loganio
+            [course] => BSBA
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 19645.44
+        )
+
+    [27] => Array
+        (
+            [last_name] => Medina
+            [first_name] => Kyla Marie
+            [middle_name] => Concepcion
+            [course] => BSED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 21.51
+        )
+
+    [28] => Array
+        (
+            [last_name] => Oco
+            [first_name] => Ciryl Angelica
+            [middle_name] => Barrameda
+            [course] => BSED
+            [sex] => Female
+            [units] => 21
+            [tuition_fee] => 19087.34
+        )
+
+    [29] => Array
+        (
+            [last_name] => Palanas
+            [first_name] => Jhon Paulo
+            [middle_name] => Rivera
+            [course] => BSBA
+            [sex] => Male
+            [units] => 22
+            [tuition_fee] => 19645.00
+        )
+
+    [30] => Array
+        (
+            [last_name] => Rivera
+            [first_name] => Arabela Grace
+            [middle_name] => Bulan
+            [course] => BSCS
+            [sex] => Female
+            [units] => 19
+            [tuition_fee] => 19454.00
+        )
+
+    [31] => Array
+        (
+            [last_name] => Torres
+            [first_name] => Cherry Mae
+            [middle_name] => 
+            [course] => BEED
+            [sex] => Female
+            [units] => 25
+            [tuition_fee] => 21321.50
+        )
+
+    [32] => Array
+        (
+            [last_name] => Vinuya
+            [first_name] => Ryan Joseph
+            [middle_name] => De Lunas
+            [course] => BSHM
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 19237.34
+        )
+
+)
+
+Row 2 data: Array
+(
+    [last_name] => Abellera
+    [first_name] => Ma Angelica
+    [middle_name] => Alvarez
+    [course] => BSA
+    [sex] => Female
+    [units] => 31
+    [tuition_fee] => 24672.00
+)
+
+Row 3 data: Array
+(
+    [last_name] => Aguilar
+    [first_name] => Christine
+    [middle_name] => Siscon
+    [course] => BSA
+    [sex] => Female
+    [units] => 31
+    [tuition_fee] => 24672.74
+)
+
+Row 4 data: Array
+(
+    [last_name] => Alday
+    [first_name] => Carl Emmanuel
+    [middle_name] => Macalalad
+    [course] => BSBA
+    [sex] => Male
+    [units] => 22
+    [tuition_fee] => 19645.88
+)
+
+Row 5 data: Array
+(
+    [last_name] => Alday
+    [first_name] => Errol
+    [middle_name] => Lasheras
+    [course] => BSCS
+    [sex] => Male
+    [units] => 19
+    [tuition_fee] => 19454.26
+)
+
+Row 6 data: Array
+(
+    [last_name] => Alday
+    [first_name] => Kyla
+    [middle_name] => Piliin
+    [course] => BSHM
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 19725.88
+)
+
+Row 7 data: Array
+(
+    [last_name] => Baldoz
+    [first_name] => Maria Isabel
+    [middle_name] => Valencia
+    [course] => BSA
+    [sex] => Female
+    [units] => 31
+    [tuition_fee] => 24672.74
+)
+
+Row 8 data: Array
+(
+    [last_name] => Base
+    [first_name] => Percimae
+    [middle_name] => A.
+    [course] => BSTM
+    [sex] => Female
+    [units] => 18
+    [tuition_fee] => 17411.72
+)
+
+Row 9 data: Array
+(
+    [last_name] => Beadoy
+    [first_name] => Mark Anthony
+    [middle_name] => Manalo
+    [course] => BSHM
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 19237.34
+)
+
+Row 10 data: Array
+(
+    [last_name] => Bingcang
+    [first_name] => Lance Andrei
+    [middle_name] => Ilao
+    [course] => BEED
+    [sex] => Male
+    [units] => 25
+    [tuition_fee] => 21321.50
+)
+
+Row 11 data: Array
+(
+    [last_name] => Caldo
+    [first_name] => Kyla Janelle
+    [middle_name] => Piñano
+    [course] => BSHM
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 19.00
+)
+
+Row 12 data: Array
+(
+    [last_name] => Catibog
+    [first_name] => Stephanie
+    [middle_name] => Mayuga
+    [course] => BSED
+    [sex] => Female
+    [units] => 30
+    [tuition_fee] => 16756.20
+)
+
+Row 13 data: Array
+(
+    [last_name] => Chica
+    [first_name] => Angela
+    [middle_name] => Manalo
+    [course] => BSTM
+    [sex] => Female
+    [units] => 25
+    [tuition_fee] => 21321.50
+)
+
+Row 14 data: Array
+(
+    [last_name] => De Guzman
+    [first_name] => Daniella Erica
+    [middle_name] => Gonzalez
+    [course] => BSED
+    [sex] => Female
+    [units] => 18
+    [tuition_fee] => 17411.72
+)
+
+Row 15 data: Array
+(
+    [last_name] => De Jesus
+    [first_name] => Pamela
+    [middle_name] => Catapang
+    [course] => BSA
+    [sex] => Female
+    [units] => 31
+    [tuition_fee] => 24672.74
+)
+
+Row 16 data: Array
+(
+    [last_name] => De Lunas
+    [first_name] => Bernadette
+    [middle_name] => Bulan
+    [course] => BSED
+    [sex] => Female
+    [units] => 18
+    [tuition_fee] => 17411.72
+)
+
+Row 17 data: Array
+(
+    [last_name] => De Roxas
+    [first_name] => Myla
+    [middle_name] => Cabello
+    [course] => BSED
+    [sex] => Female
+    [units] => 21
+    [tuition_fee] => 19087.34
+)
+
+Row 18 data: Array
+(
+    [last_name] => Emerson
+    [first_name] => Dulongbinte
+    [middle_name] => Ajero
+    [course] => BSBA
+    [sex] => Male
+    [units] => 22
+    [tuition_fee] => 19645.00
+)
+
+Row 19 data: Array
+(
+    [last_name] => Estilo
+    [first_name] => Ken Laurence
+    [middle_name] => De Jesus
+    [course] => BSHM
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 19237.34
+)
+
+Row 20 data: Array
+(
+    [last_name] => Fronda
+    [first_name] => Erika Mae
+    [middle_name] => D.
+    [course] => BSCS
+    [sex] => Female
+    [units] => 19
+    [tuition_fee] => 19454.26
+)
+
+Row 21 data: Array
+(
+    [last_name] => Garcia
+    [first_name] => Shane Aira
+    [middle_name] => Catapang
+    [course] => BSED
+    [sex] => Female
+    [units] => 28
+    [tuition_fee] => 22997.00
+)
+
+Row 22 data: Array
+(
+    [last_name] => Garcia
+    [first_name] => Yahnzel
+    [middle_name] => Maminta
+    [course] => BSTM
+    [sex] => Female
+    [units] => 18
+    [tuition_fee] => 17411.72
+)
+
+Row 23 data: Array
+(
+    [last_name] => Gubi
+    [first_name] => Zara
+    [middle_name] => Joefer
+    [course] => BSHM
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 19237.34
+)
+
+Row 24 data: Array
+(
+    [last_name] => Hernandez
+    [first_name] => Jesca Collyn
+    [middle_name] => 
+    [course] => BSCS
+    [sex] => Female
+    [units] => 19
+    [tuition_fee] => 19454.26
+)
+
+Row 25 data: Array
+(
+    [last_name] => Krause
+    [first_name] => Kevin Jurgen
+    [middle_name] => Gerolao
+    [course] => BSCS
+    [sex] => Male
+    [units] => 19
+    [tuition_fee] => 20938.26
+)
+
+Row 26 data: Array
+(
+    [last_name] => Krause
+    [first_name] => Kevin Jurgen
+    [middle_name] => Gerolao
+    [course] => BSCS
+    [sex] => Male
+    [units] => 19
+    [tuition_fee] => 20938.25
+)
+
+Row 27 data: Array
+(
+    [last_name] => Manlapaz
+    [first_name] => Lyka Vaness
+    [middle_name] => Aganan
+    [course] => BSBA
+    [sex] => Female
+    [units] => 21
+    [tuition_fee] => 19087.34
+)
+
+Row 28 data: Array
+(
+    [last_name] => Mary Joy
+    [first_name] => Candelaria
+    [middle_name] => Loganio
+    [course] => BSBA
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 19645.44
+)
+
+Row 29 data: Array
+(
+    [last_name] => Medina
+    [first_name] => Kyla Marie
+    [middle_name] => Concepcion
+    [course] => BSED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 21.51
+)
+
+Row 30 data: Array
+(
+    [last_name] => Oco
+    [first_name] => Ciryl Angelica
+    [middle_name] => Barrameda
+    [course] => BSED
+    [sex] => Female
+    [units] => 21
+    [tuition_fee] => 19087.34
+)
+
+Row 31 data: Array
+(
+    [last_name] => Palanas
+    [first_name] => Jhon Paulo
+    [middle_name] => Rivera
+    [course] => BSBA
+    [sex] => Male
+    [units] => 22
+    [tuition_fee] => 19645.00
+)
+
+Row 32 data: Array
+(
+    [last_name] => Rivera
+    [first_name] => Arabela Grace
+    [middle_name] => Bulan
+    [course] => BSCS
+    [sex] => Female
+    [units] => 19
+    [tuition_fee] => 19454.00
+)
+
+Row 33 data: Array
+(
+    [last_name] => Torres
+    [first_name] => Cherry Mae
+    [middle_name] => 
+    [course] => BEED
+    [sex] => Female
+    [units] => 25
+    [tuition_fee] => 21321.50
+)
+
+Row 34 data: Array
+(
+    [last_name] => Vinuya
+    [first_name] => Ryan Joseph
+    [middle_name] => De Lunas
+    [course] => BSHM
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 19237.34
+)
+
+Input batches: Array
+(
+    [0] => 8.10|TDP
+    [1] => 3.00|TDP
+    [2] => 2.00|Listahanan
+    [3] => 1.00|Listahanan
+)
+
+Parsed batch: 8.1, Scholarship Type: TDP
+Batch: 8.1, Scholarship Type: TDP, Rows: 4
+Raw data: Array
+(
+    [0] => Array
+        (
+            [last_name] => Barangas
+            [first_name] => Arvin James
+            [middle_name] => Azucena
+            [course] => BSHM
+            [sex] => Male
+            [units] => 22
+            [tuition_fee] => 19795.00
+        )
+
+    [1] => Array
+        (
+            [last_name] => Bauyon
+            [first_name] => Ishi Nicole
+            [middle_name] => De Roxas
+            [course] => BSTM
+            [sex] => Female
+            [units] => 25
+            [tuition_fee] => 21321.50
+        )
+
+    [2] => Array
+        (
+            [last_name] => Ilagan
+            [first_name] => Ryzza Mae
+            [middle_name] => Confiado
+            [course] => BSED
+            [sex] => Female
+            [units] => 28
+            [tuition_fee] => 22997.12
+        )
+
+    [3] => Array
+        (
+            [last_name] => Maningat
+            [first_name] => Ranquel
+            [middle_name] => Barrientos
+            [course] => BSED
+            [sex] => Female
+            [units] => 28
+            [tuition_fee] => 22997.12
+        )
+
+)
+
+Row 2 data: Array
+(
+    [last_name] => Barangas
+    [first_name] => Arvin James
+    [middle_name] => Azucena
+    [course] => BSHM
+    [sex] => Male
+    [units] => 22
+    [tuition_fee] => 19795.00
+)
+
+Row 3 data: Array
+(
+    [last_name] => Bauyon
+    [first_name] => Ishi Nicole
+    [middle_name] => De Roxas
+    [course] => BSTM
+    [sex] => Female
+    [units] => 25
+    [tuition_fee] => 21321.50
+)
+
+Row 4 data: Array
+(
+    [last_name] => Ilagan
+    [first_name] => Ryzza Mae
+    [middle_name] => Confiado
+    [course] => BSED
+    [sex] => Female
+    [units] => 28
+    [tuition_fee] => 22997.12
+)
+
+Row 5 data: Array
+(
+    [last_name] => Maningat
+    [first_name] => Ranquel
+    [middle_name] => Barrientos
+    [course] => BSED
+    [sex] => Female
+    [units] => 28
+    [tuition_fee] => 22997.12
+)
+
+Parsed batch: 3, Scholarship Type: TDP
+Batch: 3, Scholarship Type: TDP, Rows: 3
+Raw data: Array
+(
+    [0] => Array
+        (
+            [last_name] => Esteron
+            [first_name] => Joshua
+            [middle_name] => Landicho
+            [course] => BSHM
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 19237.00
+        )
+
+    [1] => Array
+        (
+            [last_name] => Ilao
+            [first_name] => Marvin
+            [middle_name] => 
+            [course] => BSED
+            [sex] => Male
+            [units] => 24
+            [tuition_fee] => 20762.00
+        )
+
+    [2] => Array
+        (
+            [last_name] => Macalalad
+            [first_name] => Ma. Andrei
+            [middle_name] => De Roxas
+            [course] => BEED
+            [sex] => Female
+            [units] => 21
+            [tuition_fee] => 19087.00
+        )
+
+)
+
+Row 2 data: Array
+(
+    [last_name] => Esteron
+    [first_name] => Joshua
+    [middle_name] => Landicho
+    [course] => BSHM
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 19237.00
+)
+
+Row 3 data: Array
+(
+    [last_name] => Ilao
+    [first_name] => Marvin
+    [middle_name] => 
+    [course] => BSED
+    [sex] => Male
+    [units] => 24
+    [tuition_fee] => 20762.00
+)
+
+Row 4 data: Array
+(
+    [last_name] => Macalalad
+    [first_name] => Ma. Andrei
+    [middle_name] => De Roxas
+    [course] => BEED
+    [sex] => Female
+    [units] => 21
+    [tuition_fee] => 19087.00
+)
+
+Parsed batch: 2, Scholarship Type: Listahanan
+Batch: 2, Scholarship Type: Listahanan, Rows: 33
+Raw data: Array
+(
+    [0] => Array
+        (
+            [last_name] => Abellera
+            [first_name] => Ma Angelica
+            [middle_name] => Alvarez
+            [course] => BSA
+            [sex] => Female
+            [units] => 31
+            [tuition_fee] => 24672.00
+        )
+
+    [1] => Array
+        (
+            [last_name] => Aguilar
+            [first_name] => Christine
+            [middle_name] => Siscon
+            [course] => BSA
+            [sex] => Female
+            [units] => 31
+            [tuition_fee] => 24672.74
+        )
+
+    [2] => Array
+        (
+            [last_name] => Alday
+            [first_name] => Carl Emmanuel
+            [middle_name] => Macalalad
+            [course] => BSBA
+            [sex] => Male
+            [units] => 22
+            [tuition_fee] => 19645.88
+        )
+
+    [3] => Array
+        (
+            [last_name] => Alday
+            [first_name] => Errol
+            [middle_name] => Lasheras
+            [course] => BSCS
+            [sex] => Male
+            [units] => 19
+            [tuition_fee] => 19454.26
+        )
+
+    [4] => Array
+        (
+            [last_name] => Alday
+            [first_name] => Kyla
+            [middle_name] => Piliin
+            [course] => BSHM
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 19725.88
+        )
+
+    [5] => Array
+        (
+            [last_name] => Baldoz
+            [first_name] => Maria Isabel
+            [middle_name] => Valencia
+            [course] => BSA
+            [sex] => Female
+            [units] => 31
+            [tuition_fee] => 24672.74
+        )
+
+    [6] => Array
+        (
+            [last_name] => Base
+            [first_name] => Percimae
+            [middle_name] => A.
+            [course] => BSTM
+            [sex] => Female
+            [units] => 18
+            [tuition_fee] => 17411.72
+        )
+
+    [7] => Array
+        (
+            [last_name] => Beadoy
+            [first_name] => Mark Anthony
+            [middle_name] => Manalo
+            [course] => BSHM
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 19237.34
+        )
+
+    [8] => Array
+        (
+            [last_name] => Bingcang
+            [first_name] => Lance Andrei
+            [middle_name] => Ilao
+            [course] => BEED
+            [sex] => Male
+            [units] => 25
+            [tuition_fee] => 21321.50
+        )
+
+    [9] => Array
+        (
+            [last_name] => Caldo
+            [first_name] => Kyla Janelle
+            [middle_name] => Piñano
+            [course] => BSHM
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 19.00
+        )
+
+    [10] => Array
+        (
+            [last_name] => Catibog
+            [first_name] => Stephanie
+            [middle_name] => Mayuga
+            [course] => BSED
+            [sex] => Female
+            [units] => 30
+            [tuition_fee] => 16756.20
+        )
+
+    [11] => Array
+        (
+            [last_name] => Chica
+            [first_name] => Angela
+            [middle_name] => Manalo
+            [course] => BSTM
+            [sex] => Female
+            [units] => 25
+            [tuition_fee] => 21321.50
+        )
+
+    [12] => Array
+        (
+            [last_name] => De Guzman
+            [first_name] => Daniella Erica
+            [middle_name] => Gonzalez
+            [course] => BSED
+            [sex] => Female
+            [units] => 18
+            [tuition_fee] => 17411.72
+        )
+
+    [13] => Array
+        (
+            [last_name] => De Jesus
+            [first_name] => Pamela
+            [middle_name] => Catapang
+            [course] => BSA
+            [sex] => Female
+            [units] => 31
+            [tuition_fee] => 24672.74
+        )
+
+    [14] => Array
+        (
+            [last_name] => De Lunas
+            [first_name] => Bernadette
+            [middle_name] => Bulan
+            [course] => BSED
+            [sex] => Female
+            [units] => 18
+            [tuition_fee] => 17411.72
+        )
+
+    [15] => Array
+        (
+            [last_name] => De Roxas
+            [first_name] => Myla
+            [middle_name] => Cabello
+            [course] => BSED
+            [sex] => Female
+            [units] => 21
+            [tuition_fee] => 19087.34
+        )
+
+    [16] => Array
+        (
+            [last_name] => Emerson
+            [first_name] => Dulongbinte
+            [middle_name] => Ajero
+            [course] => BSBA
+            [sex] => Male
+            [units] => 22
+            [tuition_fee] => 19645.00
+        )
+
+    [17] => Array
+        (
+            [last_name] => Estilo
+            [first_name] => Ken Laurence
+            [middle_name] => De Jesus
+            [course] => BSHM
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 19237.34
+        )
+
+    [18] => Array
+        (
+            [last_name] => Fronda
+            [first_name] => Erika Mae
+            [middle_name] => D.
+            [course] => BSCS
+            [sex] => Female
+            [units] => 19
+            [tuition_fee] => 19454.26
+        )
+
+    [19] => Array
+        (
+            [last_name] => Garcia
+            [first_name] => Shane Aira
+            [middle_name] => Catapang
+            [course] => BSED
+            [sex] => Female
+            [units] => 28
+            [tuition_fee] => 22997.00
+        )
+
+    [20] => Array
+        (
+            [last_name] => Garcia
+            [first_name] => Yahnzel
+            [middle_name] => Maminta
+            [course] => BSTM
+            [sex] => Female
+            [units] => 18
+            [tuition_fee] => 17411.72
+        )
+
+    [21] => Array
+        (
+            [last_name] => Gubi
+            [first_name] => Zara
+            [middle_name] => Joefer
+            [course] => BSHM
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 19237.34
+        )
+
+    [22] => Array
+        (
+            [last_name] => Hernandez
+            [first_name] => Jesca Collyn
+            [middle_name] => 
+            [course] => BSCS
+            [sex] => Female
+            [units] => 19
+            [tuition_fee] => 19454.26
+        )
+
+    [23] => Array
+        (
+            [last_name] => Krause
+            [first_name] => Kevin Jurgen
+            [middle_name] => Gerolao
+            [course] => BSCS
+            [sex] => Male
+            [units] => 19
+            [tuition_fee] => 20938.26
+        )
+
+    [24] => Array
+        (
+            [last_name] => Krause
+            [first_name] => Kevin Jurgen
+            [middle_name] => Gerolao
+            [course] => BSCS
+            [sex] => Male
+            [units] => 19
+            [tuition_fee] => 20938.25
+        )
+
+    [25] => Array
+        (
+            [last_name] => Manlapaz
+            [first_name] => Lyka Vaness
+            [middle_name] => Aganan
+            [course] => BSBA
+            [sex] => Female
+            [units] => 21
+            [tuition_fee] => 19087.34
+        )
+
+    [26] => Array
+        (
+            [last_name] => Mary Joy
+            [first_name] => Candelaria
+            [middle_name] => Loganio
+            [course] => BSBA
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 19645.44
+        )
+
+    [27] => Array
+        (
+            [last_name] => Medina
+            [first_name] => Kyla Marie
+            [middle_name] => Concepcion
+            [course] => BSED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 21.51
+        )
+
+    [28] => Array
+        (
+            [last_name] => Oco
+            [first_name] => Ciryl Angelica
+            [middle_name] => Barrameda
+            [course] => BSED
+            [sex] => Female
+            [units] => 21
+            [tuition_fee] => 19087.34
+        )
+
+    [29] => Array
+        (
+            [last_name] => Palanas
+            [first_name] => Jhon Paulo
+            [middle_name] => Rivera
+            [course] => BSBA
+            [sex] => Male
+            [units] => 22
+            [tuition_fee] => 19645.00
+        )
+
+    [30] => Array
+        (
+            [last_name] => Rivera
+            [first_name] => Arabela Grace
+            [middle_name] => Bulan
+            [course] => BSCS
+            [sex] => Female
+            [units] => 19
+            [tuition_fee] => 19454.00
+        )
+
+    [31] => Array
+        (
+            [last_name] => Torres
+            [first_name] => Cherry Mae
+            [middle_name] => 
+            [course] => BEED
+            [sex] => Female
+            [units] => 25
+            [tuition_fee] => 21321.50
+        )
+
+    [32] => Array
+        (
+            [last_name] => Vinuya
+            [first_name] => Ryan Joseph
+            [middle_name] => De Lunas
+            [course] => BSHM
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 19237.34
+        )
+
+)
+
+Row 2 data: Array
+(
+    [last_name] => Abellera
+    [first_name] => Ma Angelica
+    [middle_name] => Alvarez
+    [course] => BSA
+    [sex] => Female
+    [units] => 31
+    [tuition_fee] => 24672.00
+)
+
+Row 3 data: Array
+(
+    [last_name] => Aguilar
+    [first_name] => Christine
+    [middle_name] => Siscon
+    [course] => BSA
+    [sex] => Female
+    [units] => 31
+    [tuition_fee] => 24672.74
+)
+
+Row 4 data: Array
+(
+    [last_name] => Alday
+    [first_name] => Carl Emmanuel
+    [middle_name] => Macalalad
+    [course] => BSBA
+    [sex] => Male
+    [units] => 22
+    [tuition_fee] => 19645.88
+)
+
+Row 5 data: Array
+(
+    [last_name] => Alday
+    [first_name] => Errol
+    [middle_name] => Lasheras
+    [course] => BSCS
+    [sex] => Male
+    [units] => 19
+    [tuition_fee] => 19454.26
+)
+
+Row 6 data: Array
+(
+    [last_name] => Alday
+    [first_name] => Kyla
+    [middle_name] => Piliin
+    [course] => BSHM
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 19725.88
+)
+
+Row 7 data: Array
+(
+    [last_name] => Baldoz
+    [first_name] => Maria Isabel
+    [middle_name] => Valencia
+    [course] => BSA
+    [sex] => Female
+    [units] => 31
+    [tuition_fee] => 24672.74
+)
+
+Row 8 data: Array
+(
+    [last_name] => Base
+    [first_name] => Percimae
+    [middle_name] => A.
+    [course] => BSTM
+    [sex] => Female
+    [units] => 18
+    [tuition_fee] => 17411.72
+)
+
+Row 9 data: Array
+(
+    [last_name] => Beadoy
+    [first_name] => Mark Anthony
+    [middle_name] => Manalo
+    [course] => BSHM
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 19237.34
+)
+
+Row 10 data: Array
+(
+    [last_name] => Bingcang
+    [first_name] => Lance Andrei
+    [middle_name] => Ilao
+    [course] => BEED
+    [sex] => Male
+    [units] => 25
+    [tuition_fee] => 21321.50
+)
+
+Row 11 data: Array
+(
+    [last_name] => Caldo
+    [first_name] => Kyla Janelle
+    [middle_name] => Piñano
+    [course] => BSHM
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 19.00
+)
+
+Row 12 data: Array
+(
+    [last_name] => Catibog
+    [first_name] => Stephanie
+    [middle_name] => Mayuga
+    [course] => BSED
+    [sex] => Female
+    [units] => 30
+    [tuition_fee] => 16756.20
+)
+
+Row 13 data: Array
+(
+    [last_name] => Chica
+    [first_name] => Angela
+    [middle_name] => Manalo
+    [course] => BSTM
+    [sex] => Female
+    [units] => 25
+    [tuition_fee] => 21321.50
+)
+
+Row 14 data: Array
+(
+    [last_name] => De Guzman
+    [first_name] => Daniella Erica
+    [middle_name] => Gonzalez
+    [course] => BSED
+    [sex] => Female
+    [units] => 18
+    [tuition_fee] => 17411.72
+)
+
+Row 15 data: Array
+(
+    [last_name] => De Jesus
+    [first_name] => Pamela
+    [middle_name] => Catapang
+    [course] => BSA
+    [sex] => Female
+    [units] => 31
+    [tuition_fee] => 24672.74
+)
+
+Row 16 data: Array
+(
+    [last_name] => De Lunas
+    [first_name] => Bernadette
+    [middle_name] => Bulan
+    [course] => BSED
+    [sex] => Female
+    [units] => 18
+    [tuition_fee] => 17411.72
+)
+
+Row 17 data: Array
+(
+    [last_name] => De Roxas
+    [first_name] => Myla
+    [middle_name] => Cabello
+    [course] => BSED
+    [sex] => Female
+    [units] => 21
+    [tuition_fee] => 19087.34
+)
+
+Row 18 data: Array
+(
+    [last_name] => Emerson
+    [first_name] => Dulongbinte
+    [middle_name] => Ajero
+    [course] => BSBA
+    [sex] => Male
+    [units] => 22
+    [tuition_fee] => 19645.00
+)
+
+Row 19 data: Array
+(
+    [last_name] => Estilo
+    [first_name] => Ken Laurence
+    [middle_name] => De Jesus
+    [course] => BSHM
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 19237.34
+)
+
+Row 20 data: Array
+(
+    [last_name] => Fronda
+    [first_name] => Erika Mae
+    [middle_name] => D.
+    [course] => BSCS
+    [sex] => Female
+    [units] => 19
+    [tuition_fee] => 19454.26
+)
+
+Row 21 data: Array
+(
+    [last_name] => Garcia
+    [first_name] => Shane Aira
+    [middle_name] => Catapang
+    [course] => BSED
+    [sex] => Female
+    [units] => 28
+    [tuition_fee] => 22997.00
+)
+
+Row 22 data: Array
+(
+    [last_name] => Garcia
+    [first_name] => Yahnzel
+    [middle_name] => Maminta
+    [course] => BSTM
+    [sex] => Female
+    [units] => 18
+    [tuition_fee] => 17411.72
+)
+
+Row 23 data: Array
+(
+    [last_name] => Gubi
+    [first_name] => Zara
+    [middle_name] => Joefer
+    [course] => BSHM
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 19237.34
+)
+
+Row 24 data: Array
+(
+    [last_name] => Hernandez
+    [first_name] => Jesca Collyn
+    [middle_name] => 
+    [course] => BSCS
+    [sex] => Female
+    [units] => 19
+    [tuition_fee] => 19454.26
+)
+
+Row 25 data: Array
+(
+    [last_name] => Krause
+    [first_name] => Kevin Jurgen
+    [middle_name] => Gerolao
+    [course] => BSCS
+    [sex] => Male
+    [units] => 19
+    [tuition_fee] => 20938.26
+)
+
+Row 26 data: Array
+(
+    [last_name] => Krause
+    [first_name] => Kevin Jurgen
+    [middle_name] => Gerolao
+    [course] => BSCS
+    [sex] => Male
+    [units] => 19
+    [tuition_fee] => 20938.25
+)
+
+Row 27 data: Array
+(
+    [last_name] => Manlapaz
+    [first_name] => Lyka Vaness
+    [middle_name] => Aganan
+    [course] => BSBA
+    [sex] => Female
+    [units] => 21
+    [tuition_fee] => 19087.34
+)
+
+Row 28 data: Array
+(
+    [last_name] => Mary Joy
+    [first_name] => Candelaria
+    [middle_name] => Loganio
+    [course] => BSBA
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 19645.44
+)
+
+Row 29 data: Array
+(
+    [last_name] => Medina
+    [first_name] => Kyla Marie
+    [middle_name] => Concepcion
+    [course] => BSED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 21.51
+)
+
+Row 30 data: Array
+(
+    [last_name] => Oco
+    [first_name] => Ciryl Angelica
+    [middle_name] => Barrameda
+    [course] => BSED
+    [sex] => Female
+    [units] => 21
+    [tuition_fee] => 19087.34
+)
+
+Row 31 data: Array
+(
+    [last_name] => Palanas
+    [first_name] => Jhon Paulo
+    [middle_name] => Rivera
+    [course] => BSBA
+    [sex] => Male
+    [units] => 22
+    [tuition_fee] => 19645.00
+)
+
+Row 32 data: Array
+(
+    [last_name] => Rivera
+    [first_name] => Arabela Grace
+    [middle_name] => Bulan
+    [course] => BSCS
+    [sex] => Female
+    [units] => 19
+    [tuition_fee] => 19454.00
+)
+
+Row 33 data: Array
+(
+    [last_name] => Torres
+    [first_name] => Cherry Mae
+    [middle_name] => 
+    [course] => BEED
+    [sex] => Female
+    [units] => 25
+    [tuition_fee] => 21321.50
+)
+
+Row 34 data: Array
+(
+    [last_name] => Vinuya
+    [first_name] => Ryan Joseph
+    [middle_name] => De Lunas
+    [course] => BSHM
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 19237.34
+)
+
+Parsed batch: 1, Scholarship Type: Listahanan
+Batch: 1, Scholarship Type: Listahanan, Rows: 86
+Raw data: Array
+(
+    [0] => Array
+        (
+            [last_name] => Agquiz
+            [first_name] => Crisalyn
+            [middle_name] => Cullo
+            [course] => BSBA
+            [sex] => Female
+            [units] => 20
+            [tuition_fee] => 19278.80
+        )
+
+    [1] => Array
+        (
+            [last_name] => Albis
+            [first_name] => Christy
+            [middle_name] => Benosa
+            [course] => BSTM
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 20395.00
+        )
+
+    [2] => Array
+        (
+            [last_name] => Alcañeses
+            [first_name] => Kurt Aces
+            [middle_name] => Asaula
+            [course] => BSCS
+            [sex] => Male
+            [units] => 27
+            [tuition_fee] => 25414.58
+        )
+
+    [3] => Array
+        (
+            [last_name] => Alday
+            [first_name] => Nadine
+            [middle_name] => Lagui
+            [course] => BSBA
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 19645.88
+        )
+
+    [4] => Array
+        (
+            [last_name] => Andino
+            [first_name] => Marilou
+            [middle_name] => De La Cruz
+            [course] => BSBA
+            [sex] => Female
+            [units] => 20
+            [tuition_fee] => 18278.80
+        )
+
+    [5] => Array
+        (
+            [last_name] => Angelyn
+            [first_name] => Panganiban
+            [middle_name] => Baldrias
+            [course] => BSCS
+            [sex] => Female
+            [units] => 19
+            [tuition_fee] => 19454.26
+        )
+
+    [6] => Array
+        (
+            [last_name] => Aytona
+            [first_name] => Pauline Anne
+            [middle_name] => Aninao
+            [course] => BSA
+            [sex] => Female
+            [units] => 31
+            [tuition_fee] => 24672.74
+        )
+
+    [7] => Array
+        (
+            [last_name] => Bagunas
+            [first_name] => Ivan Carl
+            [middle_name] => Butiong
+            [course] => BSCS
+            [sex] => Male
+            [units] => 27
+            [tuition_fee] => 25000.00
+        )
+
+    [8] => Array
+        (
+            [last_name] => Balaquiot
+            [first_name] => Kent Daniel
+            [middle_name] => Barit
+            [course] => BSCS
+            [sex] => Male
+            [units] => 27
+            [tuition_fee] => 25414.58
+        )
+
+    [9] => Array
+        (
+            [last_name] => Banaguas
+            [first_name] => Junior
+            [middle_name] => M
+            [course] => BSED
+            [sex] => Male
+            [units] => 28
+            [tuition_fee] => 23000.00
+        )
+
+    [10] => Array
+        (
+            [last_name] => Baon
+            [first_name] => Landher
+            [middle_name] => Javier
+            [course] => BSCS
+            [sex] => Male
+            [units] => 27
+            [tuition_fee] => 25.00
+        )
+
+    [11] => Array
+        (
+            [last_name] => Barsaga
+            [first_name] => John Mark
+            [middle_name] => Bugtong
+            [course] => BSBA
+            [sex] => Male
+            [units] => 20
+            [tuition_fee] => 19278.00
+        )
+
+    [12] => Array
+        (
+            [last_name] => Basilio
+            [first_name] => Charlize Joan
+            [middle_name] => Ramos
+            [course] => BSBA
+            [sex] => Female
+            [units] => 23
+            [tuition_fee] => 12846.42
+        )
+
+    [13] => Array
+        (
+            [last_name] => Bathan
+            [first_name] => Rica Mae
+            [middle_name] => Bajar
+            [course] => BSBA
+            [sex] => Female
+            [units] => 21
+            [tuition_fee] => 19087.34
+        )
+
+    [14] => Array
+        (
+            [last_name] => Bautista
+            [first_name] => Cristine May
+            [middle_name] => Ynares
+            [course] => BSED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 13404.00
+        )
+
+    [15] => Array
+        (
+            [last_name] => Bautista
+            [first_name] => Daniela Reine
+            [middle_name] => Fronda
+            [course] => BSED
+            [sex] => Female
+            [units] => 30
+            [tuition_fee] => 16756.20
+        )
+
+    [16] => Array
+        (
+            [last_name] => Bautista
+            [first_name] => Erich
+            [middle_name] => Cabungcal
+            [course] => BEED
+            [sex] => Female
+            [units] => 25
+            [tuition_fee] => 21321.50
+        )
+
+    [17] => Array
+        (
+            [last_name] => Bautista
+            [first_name] => Mark Gilbert
+            [middle_name] => Marcuap
+            [course] => BSBA
+            [sex] => Male
+            [units] => 22
+            [tuition_fee] => 19645.88
+        )
+
+    [18] => Array
+        (
+            [last_name] => Bautista
+            [first_name] => Renlyn
+            [middle_name] => Isar
+            [course] => BSED
+            [sex] => Female
+            [units] => 30
+            [tuition_fee] => 24864.00
+        )
+
+    [19] => Array
+        (
+            [last_name] => Billen
+            [first_name] => Abby Rose
+            [middle_name] => Pineda
+            [course] => BSHM
+            [sex] => Female
+            [units] => 25
+            [tuition_fee] => 22221.50
+        )
+
+    [20] => Array
+        (
+            [last_name] => Bituin
+            [first_name] => Althea
+            [middle_name] => Sacro
+            [course] => BSBA
+            [sex] => Female
+            [units] => 20
+            [tuition_fee] => 19278.80
+        )
+
+    [21] => Array
+        (
+            [last_name] => Blanza
+            [first_name] => Sharina
+            [middle_name] => Mapald
+            [course] => BSHM
+            [sex] => Female
+            [units] => 25
+            [tuition_fee] => 22221.50
+        )
+
+    [22] => Array
+        (
+            [last_name] => Butiong
+            [first_name] => Janice
+            [middle_name] => Francisco
+            [course] => BSHM
+            [sex] => Female
+            [units] => 25
+            [tuition_fee] => 22221.50
+        )
+
+    [23] => Array
+        (
+            [last_name] => Camacho
+            [first_name] => Maria Cristine
+            [middle_name] => Gayoso
+            [course] => BSBA
+            [sex] => Female
+            [units] => 21
+            [tuition_fee] => 19087.34
+        )
+
+    [24] => Array
+        (
+            [last_name] => Casais
+            [first_name] => Vianah
+            [middle_name] => Mayven Salazar
+            [course] => BEED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 13404.96
+        )
+
+    [25] => Array
+        (
+            [last_name] => Castelo
+            [first_name] => Angelica
+            [middle_name] => Intino
+            [course] => BSED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 21512.96
+        )
+
+    [26] => Array
+        (
+            [last_name] => Castillo
+            [first_name] => Antonette
+            [middle_name] => Acosta
+            [course] => BSA
+            [sex] => Female
+            [units] => 29
+            [tuition_fee] => 24305.66
+        )
+
+    [27] => Array
+        (
+            [last_name] => Concepcion
+            [first_name] => Mark Jeffre
+            [middle_name] => Deguzman
+            [course] => BSHM
+            [sex] => Male
+            [units] => 25
+            [tuition_fee] => 22221.50
+        )
+
+    [28] => Array
+        (
+            [last_name] => Contreras
+            [first_name] => Joel
+            [middle_name] => 
+            [course] => BSHM
+            [sex] => Male
+            [units] => 25
+            [tuition_fee] => 22221.50
+        )
+
+    [29] => Array
+        (
+            [last_name] => Dacillo
+            [first_name] => Danica
+            [middle_name] => Tolentino
+            [course] => BSBA
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 19645.88
+        )
+
+    [30] => Array
+        (
+            [last_name] => De Castro
+            [first_name] => Nikka Mae
+            [middle_name] => B.
+            [course] => BSED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 21512.96
+        )
+
+    [31] => Array
+        (
+            [last_name] => De Guzman
+            [first_name] => Angel Ann
+            [middle_name] => Elmission
+            [course] => BEED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 13404.96
+        )
+
+    [32] => Array
+        (
+            [last_name] => De Leon
+            [first_name] => John Kristoffe
+            [middle_name] => 
+            [course] => BSA
+            [sex] => Male
+            [units] => 31
+            [tuition_fee] => 24672.00
+        )
+
+    [33] => Array
+        (
+            [last_name] => De Leon
+            [first_name] => Shiela
+            [middle_name] => Dimailig
+            [course] => BSBA
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 19645.88
+        )
+
+    [34] => Array
+        (
+            [last_name] => Del Pilar
+            [first_name] => Princes Mary
+            [middle_name] => Sarne
+            [course] => BSED
+            [sex] => Female
+            [units] => 30
+            [tuition_fee] => 24864.20
+        )
+
+    [35] => Array
+        (
+            [last_name] => Diaz
+            [first_name] => Angeline
+            [middle_name] => Alimorong
+            [course] => BSED
+            [sex] => Female
+            [units] => 28
+            [tuition_fee] => 22997.12
+        )
+
+    [36] => Array
+        (
+            [last_name] => Dimafelix
+            [first_name] => Johann
+            [middle_name] => Competente
+            [course] => BSED
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 19087.34
+        )
+
+    [37] => Array
+        (
+            [last_name] => Diongco
+            [first_name] => Verna
+            [middle_name] => M.
+            [course] => BSBA
+            [sex] => Female
+            [units] => 20
+            [tuition_fee] => 19278.80
+        )
+
+    [38] => Array
+        (
+            [last_name] => Dumas
+            [first_name] => Maria Maricel
+            [middle_name] => Casal
+            [course] => BSA
+            [sex] => Female
+            [units] => 31
+            [tuition_fee] => 24674.72
+        )
+
+    [39] => Array
+        (
+            [last_name] => Entico
+            [first_name] => Vincent Jay
+            [middle_name] => Acebuche
+            [course] => BSCS
+            [sex] => Male
+            [units] => 19
+            [tuition_fee] => 20938.26
+        )
+
+    [40] => Array
+        (
+            [last_name] => Estipona
+            [first_name] => Rod Christopher
+            [middle_name] => Chavez
+            [course] => BSCS
+            [sex] => Male
+            [units] => 19
+            [tuition_fee] => 19454.26
+        )
+
+    [41] => Array
+        (
+            [last_name] => Factuar
+            [first_name] => Denver
+            [middle_name] => 
+            [course] => BEED
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 11729.00
+        )
+
+    [42] => Array
+        (
+            [last_name] => Gonzales
+            [first_name] => Bianca
+            [middle_name] => Mendoza
+            [course] => BSA
+            [sex] => Female
+            [units] => 33
+            [tuition_fee] => 25789.82
+        )
+
+    [43] => Array
+        (
+            [last_name] => Gumapac
+            [first_name] => Pauline Alexa Marie
+            [middle_name] => Alipustain
+            [course] => BSTM
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 20395.00
+        )
+
+    [44] => Array
+        (
+            [last_name] => Hernandez
+            [first_name] => John Michael L
+            [middle_name] => 
+            [course] => BSA
+            [sex] => Male
+            [units] => 31
+            [tuition_fee] => 24672.74
+        )
+
+    [45] => Array
+        (
+            [last_name] => Ibañez
+            [first_name] => Ma. Princess Iyah
+            [middle_name] => Aldover
+            [course] => BEED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 13404.96
+        )
+
+    [46] => Array
+        (
+            [last_name] => Ilao
+            [first_name] => Franz Mariella
+            [middle_name] => Julongbayan
+            [course] => BSBA
+            [sex] => Female
+            [units] => 20
+            [tuition_fee] => 19278.00
+        )
+
+    [47] => Array
+        (
+            [last_name] => Iratay
+            [first_name] => Kim Eduard
+            [middle_name] => Garcia
+            [course] => BSBA
+            [sex] => Male
+            [units] => 21
+            [tuition_fee] => 19087.34
+        )
+
+    [48] => Array
+        (
+            [last_name] => Janelle
+            [first_name] => Dacillo
+            [middle_name] => Esgusrra
+            [course] => BEED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 13404.96
+        )
+
+    [49] => Array
+        (
+            [last_name] => Juson
+            [first_name] => Jayna Mae
+            [middle_name] => Carenan
+            [course] => BEED
+            [sex] => Female
+            [units] => 21
+            [tuition_fee] => 19087.34
+        )
+
+    [50] => Array
+        (
+            [last_name] => Kamarov
+            [first_name] => Karlov
+            [middle_name] => 
+            [course] => BSHM
+            [sex] => Male
+            [units] => 14
+            [tuition_fee] => 18000.15
+        )
+
+    [51] => Array
+        (
+            [last_name] => Labustro
+            [first_name] => Kaye Airelle
+            [middle_name] => Bibas
+            [course] => BEED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 21512.96
+        )
+
+    [52] => Array
+        (
+            [last_name] => Lara
+            [first_name] => Irish Joy
+            [middle_name] => Tadas
+            [course] => BSED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 20762.96
+        )
+
+    [53] => Array
+        (
+            [last_name] => Lauresta
+            [first_name] => Lexy Ann
+            [middle_name] => De Castro
+            [course] => BSHM
+            [sex] => Female
+            [units] => 26
+            [tuition_fee] => 22221.00
+        )
+
+    [54] => Array
+        (
+            [last_name] => Lauron
+            [first_name] => Mary Jane Lauron
+            [middle_name] => Arenza
+            [course] => BSTM
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 22395.00
+        )
+
+    [55] => Array
+        (
+            [last_name] => Limoico
+            [first_name] => Jazmin
+            [middle_name] => De Jesus
+            [course] => BSED
+            [sex] => Female
+            [units] => 30
+            [tuition_fee] => 24864.20
+        )
+
+    [56] => Array
+        (
+            [last_name] => Lopez
+            [first_name] => Mikyla Rose
+            [middle_name] => Bernal
+            [course] => BSED
+            [sex] => Female
+            [units] => 30
+            [tuition_fee] => 24864.00
+        )
+
+    [57] => Array
+        (
+            [last_name] => Luceriano
+            [first_name] => Justine
+            [middle_name] => Manalo
+            [course] => BSHM
+            [sex] => Male
+            [units] => 25
+            [tuition_fee] => 22000.00
+        )
+
+    [58] => Array
+        (
+            [last_name] => Magnaye
+            [first_name] => Mark Joros
+            [middle_name] => Atajar
+            [course] => BSTM
+            [sex] => Male
+            [units] => 18
+            [tuition_fee] => 17411.42
+        )
+
+    [59] => Array
+        (
+            [last_name] => Malaluan
+            [first_name] => Roldan
+            [middle_name] => Montealegre
+            [course] => BSCS
+            [sex] => Male
+            [units] => 27
+            [tuition_fee] => 25414.58
+        )
+
+    [60] => Array
+        (
+            [last_name] => Manalo
+            [first_name] => Alexandra
+            [middle_name] => Lopez
+            [course] => BEED
+            [sex] => Female
+            [units] => 21
+            [tuition_fee] => 19087.34
+        )
+
+    [61] => Array
+        (
+            [last_name] => Marata
+            [first_name] => John Rafael
+            [middle_name] => 
+            [course] => BSCS
+            [sex] => Male
+            [units] => 19
+            [tuition_fee] => 19454.19
+        )
+
+    [62] => Array
+        (
+            [last_name] => Mendoza
+            [first_name] => Tricia
+            [middle_name] => Mendoza
+            [course] => BSHM
+            [sex] => Female
+            [units] => 25
+            [tuition_fee] => 22221.50
+        )
+
+    [63] => Array
+        (
+            [last_name] => Mirano
+            [first_name] => Jerzi Mielle
+            [middle_name] => Legaspi
+            [course] => BSHM
+            [sex] => Female
+            [units] => 25
+            [tuition_fee] => 22221.50
+        )
+
+    [64] => Array
+        (
+            [last_name] => Noche
+            [first_name] => Kathleen Joy
+            [middle_name] => 
+            [course] => BSTM
+            [sex] => Female
+            [units] => 18
+            [tuition_fee] => 17411.72
+        )
+
+    [65] => Array
+        (
+            [last_name] => Ondo
+            [first_name] => Jamaica
+            [middle_name] => Punzalan
+            [course] => BSED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 21512.96
+        )
+
+    [66] => Array
+        (
+            [last_name] => Ongy
+            [first_name] => Joan
+            [middle_name] => 
+            [course] => BSCS
+            [sex] => Female
+            [units] => 19
+            [tuition_fee] => 10612.26
+        )
+
+    [67] => Array
+        (
+            [last_name] => Orolfo
+            [first_name] => Jean
+            [middle_name] => Dela Cruz
+            [course] => BSED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 20762.96
+        )
+
+    [68] => Array
+        (
+            [last_name] => Pacleb
+            [first_name] => Marie Thony
+            [middle_name] => Samatra
+            [course] => BSED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 20762.96
+        )
+
+    [69] => Array
+        (
+            [last_name] => Padillo
+            [first_name] => Maiky
+            [middle_name] => L.
+            [course] => BSBA
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 19645.88
+        )
+
+    [70] => Array
+        (
+            [last_name] => Paking
+            [first_name] => Angela
+            [middle_name] => De Llamas
+            [course] => BSTM
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 20395.00
+        )
+
+    [71] => Array
+        (
+            [last_name] => Palma
+            [first_name] => Hazel Anne
+            [middle_name] => Lauzon
+            [course] => BSA
+            [sex] => Female
+            [units] => 29
+            [tuition_fee] => 24305.66
+        )
+
+    [72] => Array
+        (
+            [last_name] => Panganiban
+            [first_name] => Jefferson
+            [middle_name] => Ornum
+            [course] => BSCS
+            [sex] => Male
+            [units] => 20
+            [tuition_fee] => 19000.00
+        )
+
+    [73] => Array
+        (
+            [last_name] => Pastoral
+            [first_name] => John Hendrick
+            [middle_name] => Banawa
+            [course] => BSHM
+            [sex] => Male
+            [units] => 25
+            [tuition_fee] => 22221.00
+        )
+
+    [74] => Array
+        (
+            [last_name] => Prigo
+            [first_name] => Ericka
+            [middle_name] => Duman
+            [course] => BEED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 21512.96
+        )
+
+    [75] => Array
+        (
+            [last_name] => Punzalan
+            [first_name] => Kristine Joy
+            [middle_name] => Villamin
+            [course] => BSED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 21512.96
+        )
+
+    [76] => Array
+        (
+            [last_name] => Rillorta
+            [first_name] => Princess Rillan
+            [middle_name] => Landicho
+            [course] => BSCS
+            [sex] => Female
+            [units] => 23
+            [tuition_fee] => 19424.26
+        )
+
+    [77] => Array
+        (
+            [last_name] => Robles
+            [first_name] => Precious
+            [middle_name] => 
+            [course] => BSBA
+            [sex] => Female
+            [units] => 22
+            [tuition_fee] => 19645.88
+        )
+
+    [78] => Array
+        (
+            [last_name] => Roxas
+            [first_name] => Elaiza Mae
+            [middle_name] => Mendoza
+            [course] => BSA
+            [sex] => Female
+            [units] => 31
+            [tuition_fee] => 24672.74
+        )
+
+    [79] => Array
+        (
+            [last_name] => Sacdalan
+            [first_name] => Angelica
+            [middle_name] => Gayanes
+            [course] => BSED
+            [sex] => Female
+            [units] => 24
+            [tuition_fee] => 2746.96
+        )
+
+    [80] => Array
+        (
+            [last_name] => Salgarino
+            [first_name] => Charmaine
+            [middle_name] => Briz
+            [course] => BSED
+            [sex] => Female
+            [units] => 38
+            [tuition_fee] => 24864.20
+        )
+
+    [81] => Array
+        (
+            [last_name] => Tolentino
+            [first_name] => Angela
+            [middle_name] => Tadaya
+            [course] => BSED
+            [sex] => Female
+            [units] => 30
+            [tuition_fee] => 24864.00
+        )
+
+    [82] => Array
+        (
+            [last_name] => Triviño
+            [first_name] => Michael
+            [middle_name] => Ramos
+            [course] => BSBA
+            [sex] => Male
+            [units] => 20
+            [tuition_fee] => 18270.80
+        )
+
+    [83] => Array
+        (
+            [last_name] => Valle
+            [first_name] => Kim
+            [middle_name] => Señorez
+            [course] => BSA
+            [sex] => Female
+            [units] => 29
+            [tuition_fee] => 24305.66
+        )
+
+    [84] => Array
+        (
+            [last_name] => Viarino
+            [first_name] => Racquel Anne
+            [middle_name] => Peña
+            [course] => BSHM
+            [sex] => Female
+            [units] => 25
+            [tuition_fee] => 22221.00
+        )
+
+    [85] => Array
+        (
+            [last_name] => Zara
+            [first_name] => Rosalyn
+            [middle_name] => Riva
+            [course] => BSED
+            [sex] => Female
+            [units] => 30
+            [tuition_fee] => 24864.20
+        )
+
+)
+
+Row 2 data: Array
+(
+    [last_name] => Agquiz
+    [first_name] => Crisalyn
+    [middle_name] => Cullo
+    [course] => BSBA
+    [sex] => Female
+    [units] => 20
+    [tuition_fee] => 19278.80
+)
+
+Row 3 data: Array
+(
+    [last_name] => Albis
+    [first_name] => Christy
+    [middle_name] => Benosa
+    [course] => BSTM
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 20395.00
+)
+
+Row 4 data: Array
+(
+    [last_name] => Alcañeses
+    [first_name] => Kurt Aces
+    [middle_name] => Asaula
+    [course] => BSCS
+    [sex] => Male
+    [units] => 27
+    [tuition_fee] => 25414.58
+)
+
+Row 5 data: Array
+(
+    [last_name] => Alday
+    [first_name] => Nadine
+    [middle_name] => Lagui
+    [course] => BSBA
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 19645.88
+)
+
+Row 6 data: Array
+(
+    [last_name] => Andino
+    [first_name] => Marilou
+    [middle_name] => De La Cruz
+    [course] => BSBA
+    [sex] => Female
+    [units] => 20
+    [tuition_fee] => 18278.80
+)
+
+Row 7 data: Array
+(
+    [last_name] => Angelyn
+    [first_name] => Panganiban
+    [middle_name] => Baldrias
+    [course] => BSCS
+    [sex] => Female
+    [units] => 19
+    [tuition_fee] => 19454.26
+)
+
+Row 8 data: Array
+(
+    [last_name] => Aytona
+    [first_name] => Pauline Anne
+    [middle_name] => Aninao
+    [course] => BSA
+    [sex] => Female
+    [units] => 31
+    [tuition_fee] => 24672.74
+)
+
+Row 9 data: Array
+(
+    [last_name] => Bagunas
+    [first_name] => Ivan Carl
+    [middle_name] => Butiong
+    [course] => BSCS
+    [sex] => Male
+    [units] => 27
+    [tuition_fee] => 25000.00
+)
+
+Row 10 data: Array
+(
+    [last_name] => Balaquiot
+    [first_name] => Kent Daniel
+    [middle_name] => Barit
+    [course] => BSCS
+    [sex] => Male
+    [units] => 27
+    [tuition_fee] => 25414.58
+)
+
+Row 11 data: Array
+(
+    [last_name] => Banaguas
+    [first_name] => Junior
+    [middle_name] => M
+    [course] => BSED
+    [sex] => Male
+    [units] => 28
+    [tuition_fee] => 23000.00
+)
+
+Row 12 data: Array
+(
+    [last_name] => Baon
+    [first_name] => Landher
+    [middle_name] => Javier
+    [course] => BSCS
+    [sex] => Male
+    [units] => 27
+    [tuition_fee] => 25.00
+)
+
+Row 13 data: Array
+(
+    [last_name] => Barsaga
+    [first_name] => John Mark
+    [middle_name] => Bugtong
+    [course] => BSBA
+    [sex] => Male
+    [units] => 20
+    [tuition_fee] => 19278.00
+)
+
+Row 14 data: Array
+(
+    [last_name] => Basilio
+    [first_name] => Charlize Joan
+    [middle_name] => Ramos
+    [course] => BSBA
+    [sex] => Female
+    [units] => 23
+    [tuition_fee] => 12846.42
+)
+
+Row 15 data: Array
+(
+    [last_name] => Bathan
+    [first_name] => Rica Mae
+    [middle_name] => Bajar
+    [course] => BSBA
+    [sex] => Female
+    [units] => 21
+    [tuition_fee] => 19087.34
+)
+
+Row 16 data: Array
+(
+    [last_name] => Bautista
+    [first_name] => Cristine May
+    [middle_name] => Ynares
+    [course] => BSED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 13404.00
+)
+
+Row 17 data: Array
+(
+    [last_name] => Bautista
+    [first_name] => Daniela Reine
+    [middle_name] => Fronda
+    [course] => BSED
+    [sex] => Female
+    [units] => 30
+    [tuition_fee] => 16756.20
+)
+
+Row 18 data: Array
+(
+    [last_name] => Bautista
+    [first_name] => Erich
+    [middle_name] => Cabungcal
+    [course] => BEED
+    [sex] => Female
+    [units] => 25
+    [tuition_fee] => 21321.50
+)
+
+Row 19 data: Array
+(
+    [last_name] => Bautista
+    [first_name] => Mark Gilbert
+    [middle_name] => Marcuap
+    [course] => BSBA
+    [sex] => Male
+    [units] => 22
+    [tuition_fee] => 19645.88
+)
+
+Row 20 data: Array
+(
+    [last_name] => Bautista
+    [first_name] => Renlyn
+    [middle_name] => Isar
+    [course] => BSED
+    [sex] => Female
+    [units] => 30
+    [tuition_fee] => 24864.00
+)
+
+Row 21 data: Array
+(
+    [last_name] => Billen
+    [first_name] => Abby Rose
+    [middle_name] => Pineda
+    [course] => BSHM
+    [sex] => Female
+    [units] => 25
+    [tuition_fee] => 22221.50
+)
+
+Row 22 data: Array
+(
+    [last_name] => Bituin
+    [first_name] => Althea
+    [middle_name] => Sacro
+    [course] => BSBA
+    [sex] => Female
+    [units] => 20
+    [tuition_fee] => 19278.80
+)
+
+Row 23 data: Array
+(
+    [last_name] => Blanza
+    [first_name] => Sharina
+    [middle_name] => Mapald
+    [course] => BSHM
+    [sex] => Female
+    [units] => 25
+    [tuition_fee] => 22221.50
+)
+
+Row 24 data: Array
+(
+    [last_name] => Butiong
+    [first_name] => Janice
+    [middle_name] => Francisco
+    [course] => BSHM
+    [sex] => Female
+    [units] => 25
+    [tuition_fee] => 22221.50
+)
+
+Row 25 data: Array
+(
+    [last_name] => Camacho
+    [first_name] => Maria Cristine
+    [middle_name] => Gayoso
+    [course] => BSBA
+    [sex] => Female
+    [units] => 21
+    [tuition_fee] => 19087.34
+)
+
+Row 26 data: Array
+(
+    [last_name] => Casais
+    [first_name] => Vianah
+    [middle_name] => Mayven Salazar
+    [course] => BEED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 13404.96
+)
+
+Row 27 data: Array
+(
+    [last_name] => Castelo
+    [first_name] => Angelica
+    [middle_name] => Intino
+    [course] => BSED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 21512.96
+)
+
+Row 28 data: Array
+(
+    [last_name] => Castillo
+    [first_name] => Antonette
+    [middle_name] => Acosta
+    [course] => BSA
+    [sex] => Female
+    [units] => 29
+    [tuition_fee] => 24305.66
+)
+
+Row 29 data: Array
+(
+    [last_name] => Concepcion
+    [first_name] => Mark Jeffre
+    [middle_name] => Deguzman
+    [course] => BSHM
+    [sex] => Male
+    [units] => 25
+    [tuition_fee] => 22221.50
+)
+
+Row 30 data: Array
+(
+    [last_name] => Contreras
+    [first_name] => Joel
+    [middle_name] => 
+    [course] => BSHM
+    [sex] => Male
+    [units] => 25
+    [tuition_fee] => 22221.50
+)
+
+Row 31 data: Array
+(
+    [last_name] => Dacillo
+    [first_name] => Danica
+    [middle_name] => Tolentino
+    [course] => BSBA
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 19645.88
+)
+
+Row 32 data: Array
+(
+    [last_name] => De Castro
+    [first_name] => Nikka Mae
+    [middle_name] => B.
+    [course] => BSED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 21512.96
+)
+
+Row 33 data: Array
+(
+    [last_name] => De Guzman
+    [first_name] => Angel Ann
+    [middle_name] => Elmission
+    [course] => BEED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 13404.96
+)
+
+Row 34 data: Array
+(
+    [last_name] => De Leon
+    [first_name] => John Kristoffe
+    [middle_name] => 
+    [course] => BSA
+    [sex] => Male
+    [units] => 31
+    [tuition_fee] => 24672.00
+)
+
+Row 35 data: Array
+(
+    [last_name] => De Leon
+    [first_name] => Shiela
+    [middle_name] => Dimailig
+    [course] => BSBA
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 19645.88
+)
+
+Row 36 data: Array
+(
+    [last_name] => Del Pilar
+    [first_name] => Princes Mary
+    [middle_name] => Sarne
+    [course] => BSED
+    [sex] => Female
+    [units] => 30
+    [tuition_fee] => 24864.20
+)
+
+Row 37 data: Array
+(
+    [last_name] => Diaz
+    [first_name] => Angeline
+    [middle_name] => Alimorong
+    [course] => BSED
+    [sex] => Female
+    [units] => 28
+    [tuition_fee] => 22997.12
+)
+
+Row 38 data: Array
+(
+    [last_name] => Dimafelix
+    [first_name] => Johann
+    [middle_name] => Competente
+    [course] => BSED
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 19087.34
+)
+
+Row 39 data: Array
+(
+    [last_name] => Diongco
+    [first_name] => Verna
+    [middle_name] => M.
+    [course] => BSBA
+    [sex] => Female
+    [units] => 20
+    [tuition_fee] => 19278.80
+)
+
+Row 40 data: Array
+(
+    [last_name] => Dumas
+    [first_name] => Maria Maricel
+    [middle_name] => Casal
+    [course] => BSA
+    [sex] => Female
+    [units] => 31
+    [tuition_fee] => 24674.72
+)
+
+Row 41 data: Array
+(
+    [last_name] => Entico
+    [first_name] => Vincent Jay
+    [middle_name] => Acebuche
+    [course] => BSCS
+    [sex] => Male
+    [units] => 19
+    [tuition_fee] => 20938.26
+)
+
+Row 42 data: Array
+(
+    [last_name] => Estipona
+    [first_name] => Rod Christopher
+    [middle_name] => Chavez
+    [course] => BSCS
+    [sex] => Male
+    [units] => 19
+    [tuition_fee] => 19454.26
+)
+
+Row 43 data: Array
+(
+    [last_name] => Factuar
+    [first_name] => Denver
+    [middle_name] => 
+    [course] => BEED
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 11729.00
+)
+
+Row 44 data: Array
+(
+    [last_name] => Gonzales
+    [first_name] => Bianca
+    [middle_name] => Mendoza
+    [course] => BSA
+    [sex] => Female
+    [units] => 33
+    [tuition_fee] => 25789.82
+)
+
+Row 45 data: Array
+(
+    [last_name] => Gumapac
+    [first_name] => Pauline Alexa Marie
+    [middle_name] => Alipustain
+    [course] => BSTM
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 20395.00
+)
+
+Row 46 data: Array
+(
+    [last_name] => Hernandez
+    [first_name] => John Michael L
+    [middle_name] => 
+    [course] => BSA
+    [sex] => Male
+    [units] => 31
+    [tuition_fee] => 24672.74
+)
+
+Row 47 data: Array
+(
+    [last_name] => Ibañez
+    [first_name] => Ma. Princess Iyah
+    [middle_name] => Aldover
+    [course] => BEED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 13404.96
+)
+
+Row 48 data: Array
+(
+    [last_name] => Ilao
+    [first_name] => Franz Mariella
+    [middle_name] => Julongbayan
+    [course] => BSBA
+    [sex] => Female
+    [units] => 20
+    [tuition_fee] => 19278.00
+)
+
+Row 49 data: Array
+(
+    [last_name] => Iratay
+    [first_name] => Kim Eduard
+    [middle_name] => Garcia
+    [course] => BSBA
+    [sex] => Male
+    [units] => 21
+    [tuition_fee] => 19087.34
+)
+
+Row 50 data: Array
+(
+    [last_name] => Janelle
+    [first_name] => Dacillo
+    [middle_name] => Esgusrra
+    [course] => BEED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 13404.96
+)
+
+Row 51 data: Array
+(
+    [last_name] => Juson
+    [first_name] => Jayna Mae
+    [middle_name] => Carenan
+    [course] => BEED
+    [sex] => Female
+    [units] => 21
+    [tuition_fee] => 19087.34
+)
+
+Row 52 data: Array
+(
+    [last_name] => Kamarov
+    [first_name] => Karlov
+    [middle_name] => 
+    [course] => BSHM
+    [sex] => Male
+    [units] => 14
+    [tuition_fee] => 18000.15
+)
+
+Row 53 data: Array
+(
+    [last_name] => Labustro
+    [first_name] => Kaye Airelle
+    [middle_name] => Bibas
+    [course] => BEED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 21512.96
+)
+
+Row 54 data: Array
+(
+    [last_name] => Lara
+    [first_name] => Irish Joy
+    [middle_name] => Tadas
+    [course] => BSED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 20762.96
+)
+
+Row 55 data: Array
+(
+    [last_name] => Lauresta
+    [first_name] => Lexy Ann
+    [middle_name] => De Castro
+    [course] => BSHM
+    [sex] => Female
+    [units] => 26
+    [tuition_fee] => 22221.00
+)
+
+Row 56 data: Array
+(
+    [last_name] => Lauron
+    [first_name] => Mary Jane Lauron
+    [middle_name] => Arenza
+    [course] => BSTM
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 22395.00
+)
+
+Row 57 data: Array
+(
+    [last_name] => Limoico
+    [first_name] => Jazmin
+    [middle_name] => De Jesus
+    [course] => BSED
+    [sex] => Female
+    [units] => 30
+    [tuition_fee] => 24864.20
+)
+
+Row 58 data: Array
+(
+    [last_name] => Lopez
+    [first_name] => Mikyla Rose
+    [middle_name] => Bernal
+    [course] => BSED
+    [sex] => Female
+    [units] => 30
+    [tuition_fee] => 24864.00
+)
+
+Row 59 data: Array
+(
+    [last_name] => Luceriano
+    [first_name] => Justine
+    [middle_name] => Manalo
+    [course] => BSHM
+    [sex] => Male
+    [units] => 25
+    [tuition_fee] => 22000.00
+)
+
+Row 60 data: Array
+(
+    [last_name] => Magnaye
+    [first_name] => Mark Joros
+    [middle_name] => Atajar
+    [course] => BSTM
+    [sex] => Male
+    [units] => 18
+    [tuition_fee] => 17411.42
+)
+
+Row 61 data: Array
+(
+    [last_name] => Malaluan
+    [first_name] => Roldan
+    [middle_name] => Montealegre
+    [course] => BSCS
+    [sex] => Male
+    [units] => 27
+    [tuition_fee] => 25414.58
+)
+
+Row 62 data: Array
+(
+    [last_name] => Manalo
+    [first_name] => Alexandra
+    [middle_name] => Lopez
+    [course] => BEED
+    [sex] => Female
+    [units] => 21
+    [tuition_fee] => 19087.34
+)
+
+Row 63 data: Array
+(
+    [last_name] => Marata
+    [first_name] => John Rafael
+    [middle_name] => 
+    [course] => BSCS
+    [sex] => Male
+    [units] => 19
+    [tuition_fee] => 19454.19
+)
+
+Row 64 data: Array
+(
+    [last_name] => Mendoza
+    [first_name] => Tricia
+    [middle_name] => Mendoza
+    [course] => BSHM
+    [sex] => Female
+    [units] => 25
+    [tuition_fee] => 22221.50
+)
+
+Row 65 data: Array
+(
+    [last_name] => Mirano
+    [first_name] => Jerzi Mielle
+    [middle_name] => Legaspi
+    [course] => BSHM
+    [sex] => Female
+    [units] => 25
+    [tuition_fee] => 22221.50
+)
+
+Row 66 data: Array
+(
+    [last_name] => Noche
+    [first_name] => Kathleen Joy
+    [middle_name] => 
+    [course] => BSTM
+    [sex] => Female
+    [units] => 18
+    [tuition_fee] => 17411.72
+)
+
+Row 67 data: Array
+(
+    [last_name] => Ondo
+    [first_name] => Jamaica
+    [middle_name] => Punzalan
+    [course] => BSED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 21512.96
+)
+
+Row 68 data: Array
+(
+    [last_name] => Ongy
+    [first_name] => Joan
+    [middle_name] => 
+    [course] => BSCS
+    [sex] => Female
+    [units] => 19
+    [tuition_fee] => 10612.26
+)
+
+Row 69 data: Array
+(
+    [last_name] => Orolfo
+    [first_name] => Jean
+    [middle_name] => Dela Cruz
+    [course] => BSED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 20762.96
+)
+
+Row 70 data: Array
+(
+    [last_name] => Pacleb
+    [first_name] => Marie Thony
+    [middle_name] => Samatra
+    [course] => BSED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 20762.96
+)
+
+Row 71 data: Array
+(
+    [last_name] => Padillo
+    [first_name] => Maiky
+    [middle_name] => L.
+    [course] => BSBA
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 19645.88
+)
+
+Row 72 data: Array
+(
+    [last_name] => Paking
+    [first_name] => Angela
+    [middle_name] => De Llamas
+    [course] => BSTM
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 20395.00
+)
+
+Row 73 data: Array
+(
+    [last_name] => Palma
+    [first_name] => Hazel Anne
+    [middle_name] => Lauzon
+    [course] => BSA
+    [sex] => Female
+    [units] => 29
+    [tuition_fee] => 24305.66
+)
+
+Row 74 data: Array
+(
+    [last_name] => Panganiban
+    [first_name] => Jefferson
+    [middle_name] => Ornum
+    [course] => BSCS
+    [sex] => Male
+    [units] => 20
+    [tuition_fee] => 19000.00
+)
+
+Row 75 data: Array
+(
+    [last_name] => Pastoral
+    [first_name] => John Hendrick
+    [middle_name] => Banawa
+    [course] => BSHM
+    [sex] => Male
+    [units] => 25
+    [tuition_fee] => 22221.00
+)
+
+Row 76 data: Array
+(
+    [last_name] => Prigo
+    [first_name] => Ericka
+    [middle_name] => Duman
+    [course] => BEED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 21512.96
+)
+
+Row 77 data: Array
+(
+    [last_name] => Punzalan
+    [first_name] => Kristine Joy
+    [middle_name] => Villamin
+    [course] => BSED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 21512.96
+)
+
+Row 78 data: Array
+(
+    [last_name] => Rillorta
+    [first_name] => Princess Rillan
+    [middle_name] => Landicho
+    [course] => BSCS
+    [sex] => Female
+    [units] => 23
+    [tuition_fee] => 19424.26
+)
+
+Row 79 data: Array
+(
+    [last_name] => Robles
+    [first_name] => Precious
+    [middle_name] => 
+    [course] => BSBA
+    [sex] => Female
+    [units] => 22
+    [tuition_fee] => 19645.88
+)
+
+Row 80 data: Array
+(
+    [last_name] => Roxas
+    [first_name] => Elaiza Mae
+    [middle_name] => Mendoza
+    [course] => BSA
+    [sex] => Female
+    [units] => 31
+    [tuition_fee] => 24672.74
+)
+
+Row 81 data: Array
+(
+    [last_name] => Sacdalan
+    [first_name] => Angelica
+    [middle_name] => Gayanes
+    [course] => BSED
+    [sex] => Female
+    [units] => 24
+    [tuition_fee] => 2746.96
+)
+
+Row 82 data: Array
+(
+    [last_name] => Salgarino
+    [first_name] => Charmaine
+    [middle_name] => Briz
+    [course] => BSED
+    [sex] => Female
+    [units] => 38
+    [tuition_fee] => 24864.20
+)
+
+Row 83 data: Array
+(
+    [last_name] => Tolentino
+    [first_name] => Angela
+    [middle_name] => Tadaya
+    [course] => BSED
+    [sex] => Female
+    [units] => 30
+    [tuition_fee] => 24864.00
+)
+
+Row 84 data: Array
+(
+    [last_name] => Triviño
+    [first_name] => Michael
+    [middle_name] => Ramos
+    [course] => BSBA
+    [sex] => Male
+    [units] => 20
+    [tuition_fee] => 18270.80
+)
+
+Row 85 data: Array
+(
+    [last_name] => Valle
+    [first_name] => Kim
+    [middle_name] => Señorez
+    [course] => BSA
+    [sex] => Female
+    [units] => 29
+    [tuition_fee] => 24305.66
+)
+
+Row 86 data: Array
+(
+    [last_name] => Viarino
+    [first_name] => Racquel Anne
+    [middle_name] => Peña
+    [course] => BSHM
+    [sex] => Female
+    [units] => 25
+    [tuition_fee] => 22221.00
+)
+
+Row 87 data: Array
+(
+    [last_name] => Zara
+    [first_name] => Rosalyn
+    [middle_name] => Riva
+    [course] => BSED
+    [sex] => Female
+    [units] => 30
+    [tuition_fee] => 24864.20
+)
+

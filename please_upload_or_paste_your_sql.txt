@@ -1,0 +1,3 @@
+-- Please paste the contents of your SQL file here or upload it to the workspace for analysis.
+-- I cannot access files outside the workspace directly.
+-- If you upload or paste the SQL, I will review and help you fix the schoolyear connection for the zip feature.
