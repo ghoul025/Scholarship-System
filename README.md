@@ -8,3 +8,53 @@
 <img width="1362" height="628" alt="Screenshot 2026-07-15 233441" src="https://github.com/user-attachments/assets/1d4baca3-13ce-4c37-bfbe-fcfe9dd5e3e0" />
 <img width="1363" height="630" alt="Screenshot 2026-07-15 233321" src="https://github.com/user-attachments/assets/12039f93-5c52-48d6-a93d-83a7c79271d1" />
 <img width="1360" height="635" alt="Screenshot 2026-07-15 233117" src="https://github.com/user-attachments/assets/df9bd274-56b9-4bcf-86e2-bef2a22dbded" />
+# Scholarship Credential Management System
+
+A web-based platform built for **Immaculate Conception College – Balayan** to digitize the school's scholarship application and tracking process, replacing a manual, paper-based workflow.
+
+## Problem It Solves
+
+Before this system, scholarship applications, credential checks, and status tracking were handled manually on paper — slow, error-prone, and hard to audit. This system centralizes that process into a single digital platform so applicants and administrators can submit, track, and manage scholarship credentials in one place.
+
+## Features
+
+- Digital scholarship application submission and credential upload
+- Application status tracking (from submission to approval)
+- Admin-side management dashboard for reviewing and processing applications
+- Centralized, searchable record-keeping in place of paper files
+
+*(Fill in/adjust the bullets above to match the exact features your system has — add or remove based on what's actually implemented.)*
+
+## Tech Stack
+
+- **Backend:** PHP
+- **Database:** SQL
+- **Frontend:** HTML, CSS, JavaScript
+
+## Impact
+
+Piloted and tested with real users at ICC Balayan, with positive feedback on ease of use and improved workflow efficiency compared to the previous manual process.
+
+## Setup / How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/ghoul025/Scholarship-System.git
+cd Scholarship-System
+
+# Import the database schema (adjust filename if needed)
+mysql -u [username] -p [database_name] < schema.sql
+
+# Configure database connection
+# Edit the config/db connection file with your local credentials
+
+# Serve the project (example using PHP's built-in server)
+php -S localhost:8000
+```
+
+*(Update the setup steps above to match your actual folder structure and config file names.)*
+
+## Author
+
+**Errol L. Alday**
+[github.com/ghoul025](https://github.com/ghoul025)
